@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+ 
+  
+}
+
+.contenedor{
+    margin: 0 auto;
+    width: 400px;
+    background: blue;
+    height: 400px;
+    text-align: center;
+
+
+}
+
+.boton{
+    position:relative;
+    background: chocolate;
+    padding-top: 10px;
+   height: 30px;
+   top: 200px;
+        
+}
+
